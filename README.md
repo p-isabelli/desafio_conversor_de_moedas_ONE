@@ -13,19 +13,19 @@ Conversão entre diferentes moedas:
 
 <strong>Como Usar</strong>
 
-Executar o Programa:
+<strong>Executar o Programa:</strong>
 
   Execute a classe Principal.java para iniciar o aplicativo.
 
-Selecionar a Moeda Base e Moeda de Destino:
+<strong>Selecionar a Moeda Base e Moeda de Destino:</strong>
 
   Escolha uma das opções do menu para selecionar a moeda base e a moeda de destino.
 
-Inserir o Valor a Ser Convertido:
+<strong>Inserir o Valor a Ser Convertido:</strong>
 
   Insira o valor que deseja converter.
 
-Visualizar o Resultado:
+<strong>Visualizar o Resultado:</strong>
 
   O programa calculará e exibirá o valor convertido.
 
