@@ -42,4 +42,5 @@ Conversão entre diferentes moedas:
   7. Sair
 
 <strong>API Utilizada</strong>
-  Este aplicativo utiliza a ExchangeRate-API para obter as taxas de câmbio atualizadas.
+
+Este aplicativo utiliza a ExchangeRate-API para obter as taxas de câmbio atualizadas.
