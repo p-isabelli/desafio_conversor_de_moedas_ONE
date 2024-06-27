@@ -1,38 +1,35 @@
 <h1>Conversor de Moedas</h1>
 
-    <p>Um simples aplicativo em Java para converter moedas utilizando a ExchangeRate-API.</p>
+Um simples aplicativo em Java para converter moedas utilizando a ExchangeRate-API.
 
-    <h3>Funcionalidades</h3>
-    <ul>
-        <li>Conversão entre diferentes moedas:
-            <ul>
-                <li>Real Brasileiro (BRL)</li>
-                <li>Dólar Americano (USD)</li>
-                <li>Peso Argentino (ARS)</li>
-                <li>Peso Mexicano (MXN)</li>
-            </ul>
-        </li>
-    </ul>
+Funcionalidades
+Conversão entre diferentes moedas:
+Real Brasileiro (BRL)
+Dólar Americano (USD)
+Peso Argentino (ARS)
+Peso Mexicano (MXN)
+Como Usar
+Executar o Programa:
 
-    <h3>Como Usar</h3>
-    <ol>
-        <li><strong>Executar o Programa:</strong> Execute a classe <code>Principal.java</code> para iniciar o aplicativo.</li>
-        <li><strong>Selecionar a Moeda Base e Moeda de Destino:</strong> Escolha uma das opções do menu para selecionar a moeda base e a moeda de destino.</li>
-        <li><strong>Inserir o Valor a Ser Convertido:</strong> Insira o valor que deseja converter.</li>
-        <li><strong>Visualizar o Resultado:</strong> O programa calculará e exibirá o valor convertido.</li>
-    </ol>
+Execute a classe Principal.java para iniciar o aplicativo.
+Selecionar a Moeda Base e Moeda de Destino:
 
-    <h3>Menu de Conversão</h3>
-    <p>O programa oferece as seguintes opções de conversão:</p>
-    <ul>
-        <li>Real Brasileiro para Dólar Americano</li>
-        <li>Dólar Americano para Real Brasileiro</li>
-        <li>Peso Argentino para Real Brasileiro</li>
-        <li>Real Brasileiro para Peso Argentino</li>
-        <li>Peso Mexicano para Real Brasileiro</li>
-        <li>Real Brasileiro para Peso Mexicano</li>
-        <li>Sair</li>
-    </ul>
+Escolha uma das opções do menu para selecionar a moeda base e a moeda de destino.
+Inserir o Valor a Ser Convertido:
 
-    <h3>API Utilizada</h3>
-    <p>Este aplicativo utiliza a ExchangeRate-API para obter as taxas de câmbio atualizadas.</p>
+Insira o valor que deseja converter.
+Visualizar o Resultado:
+
+O programa calculará e exibirá o valor convertido.
+Menu de Conversão
+O programa oferece as seguintes opções de conversão:
+
+Real Brasileiro para Dólar Americano
+Dólar Americano para Real Brasileiro
+Peso Argentino para Real Brasileiro
+Real Brasileiro para Peso Argentino
+Peso Mexicano para Real Brasileiro
+Real Brasileiro para Peso Mexicano
+Sair
+API Utilizada
+Este aplicativo utiliza a ExchangeRate-API para obter as taxas de câmbio atualizadas.
